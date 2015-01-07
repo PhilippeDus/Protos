@@ -1,0 +1,1 @@
+Fichier readme.txt de l'exercice de la partie 2.
